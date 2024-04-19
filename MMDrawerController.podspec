@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.author       = { "Kevin Harwood" => "kevin.harwood@mutualmobile.com" }
   s.source       = { :git => "https://github.com/mutualmobile/MMDrawerController.git", :tag => "0.6.0" }
-  s.platform     = :ios, '7.0'
+  s.platform     = :ios, '13.0'
   s.requires_arc = true
   s.screenshots = [ "http://mutualmobile.github.io/MMDrawerController/ExampleImages/example1.png",
                        "http://mutualmobile.github.io/MMDrawerController/ExampleImages/example2.png" ]
